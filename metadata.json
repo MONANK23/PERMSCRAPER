@@ -1,0 +1,6 @@
+{
+  "name": "PermScraper",
+  "description": "High-performance Minecraft permission extractor using Deep Research and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
